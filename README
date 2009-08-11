@@ -4,3 +4,5 @@ Studio Settings
 .vssettings file for visual studio. Has an R# compatible theme, and a bunch of useless crap turned off
 
 goes in %HOME%\Documents\Visual Studio 2008\Settings\
+
+resharper folder contains templates and settings. set them with restore.bat, back them up with backup.bat
