@@ -158,6 +158,7 @@
       </QuickList>
       <QuickList name="XML files">
         <TemplateReference uid="c44a28a4-c56c-4ff4-b8db-9b563ae61b01" name="using" />
+        <TemplateReference uid="d1a7844c-e289-438a-aa26-31bbe4694112" name="tag" />
         <Removed />
       </QuickList>
       <QuickList name="ASP.NET files">
