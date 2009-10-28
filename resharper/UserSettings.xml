@@ -55,6 +55,7 @@
       <setting name="SearchProperties.TextualOccurences">True</setting>
       <setting name="SearchProperties.Usages">True</setting>
       <setting name="showMemoryUsage">False</setting>
+      <setting name="skipResultsForSingleHierarchyItem">True</setting>
       <setting name="skipResultsForSingleUsage">True</setting>
       <setting name="SMART_INDENT_ON_ENTER_NEW">False</setting>
       <setting name="SMART_PARENTH_INSERT">True</setting>
